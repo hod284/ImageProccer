@@ -1,6 +1,3 @@
-# ImageProcessor 과제 제출
-
-
 ## 개발 환경
 - Visual Studio 2022 호환 MSVC v143, Windows SDK
 - C++17, x64 / Release (디버깅 시 Debug)
