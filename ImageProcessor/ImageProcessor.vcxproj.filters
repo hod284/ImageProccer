@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="ImageBuffer.cpp" />
+    <ClCompile Include="BmpParser.cpp" />
+    <ClCompile Include="CommandLineParser.cpp" />
+    <ClCompile Include="ImageAdjust.cpp">
+      <Filter>youn</Filter>
+    </ClCompile>
+    <ClCompile Include="FilterFactory.cpp">
+      <Filter>youn</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageTransform.cpp">
+      <Filter>youn</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger.cpp">
+      <Filter>youn</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Exceptions.h" />
+    <ClInclude Include="ImageBuffer.h" />
+    <ClInclude Include="BmpParser.h" />
+    <ClInclude Include="CommandLineParser.h" />
+    <ClInclude Include="ImageAdjust.h">
+      <Filter>youn</Filter>
+    </ClInclude>
+    <ClInclude Include="FilterBase.h">
+      <Filter>youn</Filter>
+    </ClInclude>
+    <ClInclude Include="FilterFactory.h">
+      <Filter>youn</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageTransform.h">
+      <Filter>youn</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger.h">
+      <Filter>youn</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="youn">
+      <UniqueIdentifier>{ef20b2be-6d01-415a-9acb-ed20ea2a63ae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

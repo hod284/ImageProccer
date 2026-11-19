@@ -1,0 +1,45 @@
+﻿  FilterFactory.cpp
+  ImageAdjust.cpp
+C:\ImageProcessor_Starter_v4\ImageProcessor\ImageAdjust.cpp(96,60): warning C4458: 'value' 선언은 클래스 멤버를 숨깁니다.
+      C:\ImageProcessor_Starter_v4\ImageProcessor\ImageAdjust.h(60,9):
+      'ImageAdjust::value' 선언을 참조하십시오.
+  
+C:\ImageProcessor_Starter_v4\ImageProcessor\ImageAdjust.cpp(112,68): warning C4458: 'value' 선언은 클래스 멤버를 숨깁니다.
+      C:\ImageProcessor_Starter_v4\ImageProcessor\ImageAdjust.h(60,9):
+      'ImageAdjust::value' 선언을 참조하십시오.
+  
+  ImageTransform.cpp
+C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.cpp(137,15): warning C4458: 'width' 선언은 클래스 멤버를 숨깁니다.
+      C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.h(24,9):
+      'ImageTransform::width' 선언을 참조하십시오.
+  
+C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.cpp(138,15): warning C4458: 'height' 선언은 클래스 멤버를 숨깁니다.
+      C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.h(25,9):
+      'ImageTransform::height' 선언을 참조하십시오.
+  
+C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.cpp(140,14): warning C4458: 'y' 선언은 클래스 멤버를 숨깁니다.
+      C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.h(23,9):
+      'ImageTransform::y' 선언을 참조하십시오.
+  
+C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.cpp(144,18): warning C4458: 'x' 선언은 클래스 멤버를 숨깁니다.
+      C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.h(22,9):
+      'ImageTransform::x' 선언을 참조하십시오.
+  
+C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.cpp(161,15): warning C4458: 'height' 선언은 클래스 멤버를 숨깁니다.
+      C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.h(25,9):
+      'ImageTransform::height' 선언을 참조하십시오.
+  
+C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.cpp(163,14): warning C4458: 'y' 선언은 클래스 멤버를 숨깁니다.
+      C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.h(23,9):
+      'ImageTransform::y' 선언을 참조하십시오.
+  
+  Logger.cpp
+  main.cpp
+  ImageBuffer.cpp
+  BmpParser.cpp
+  CommandLineParser.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 1150 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  ImageProcessor.vcxproj -> C:\ImageProcessor_Starter_v4\x64\Release\ImageProcessor.exe

@@ -1,0 +1,8 @@
+C:\ImageProcessor_Starter_v4\ImageProcessor\FilterFactory.cpp;C:\ImageProcessor_Starter_v4\ImageProcessor\x64\Release\FilterFactory.obj
+C:\ImageProcessor_Starter_v4\ImageProcessor\ImageAdjust.cpp;C:\ImageProcessor_Starter_v4\ImageProcessor\x64\Release\ImageAdjust.obj
+C:\ImageProcessor_Starter_v4\ImageProcessor\ImageTransform.cpp;C:\ImageProcessor_Starter_v4\ImageProcessor\x64\Release\ImageTransform.obj
+C:\ImageProcessor_Starter_v4\ImageProcessor\Logger.cpp;C:\ImageProcessor_Starter_v4\ImageProcessor\x64\Release\Logger.obj
+C:\ImageProcessor_Starter_v4\ImageProcessor\main.cpp;C:\ImageProcessor_Starter_v4\ImageProcessor\x64\Release\main.obj
+C:\ImageProcessor_Starter_v4\ImageProcessor\ImageBuffer.cpp;C:\ImageProcessor_Starter_v4\ImageProcessor\x64\Release\ImageBuffer.obj
+C:\ImageProcessor_Starter_v4\ImageProcessor\BmpParser.cpp;C:\ImageProcessor_Starter_v4\ImageProcessor\x64\Release\BmpParser.obj
+C:\ImageProcessor_Starter_v4\ImageProcessor\CommandLineParser.cpp;C:\ImageProcessor_Starter_v4\ImageProcessor\x64\Release\CommandLineParser.obj
